@@ -8,6 +8,13 @@
       "when": 1752021331970,
       "tag": "0000_big_energizer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752111026932,
+      "tag": "0001_blue_genesis",
+      "breakpoints": true
     }
   ]
 }
